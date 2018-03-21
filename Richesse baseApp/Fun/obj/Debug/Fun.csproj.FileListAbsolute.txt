@@ -1,0 +1,10 @@
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\bin\Debug\Fun.exe.config
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\bin\Debug\Fun.exe
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\bin\Debug\Fun.pdb
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\obj\Debug\Fun.csprojResolveAssemblyReference.cache
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\obj\Debug\Fun.Form1.resources
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\obj\Debug\Fun.Properties.Resources.resources
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\obj\Debug\Fun.csproj.GenerateResource.Cache
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\obj\Debug\Fun.exe
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\obj\Debug\Fun.pdb
+c:\users\berdozlo\documents\visual studio 2017\Projects\Fun\Fun\obj\Debug\Fun.frmMusic.resources
